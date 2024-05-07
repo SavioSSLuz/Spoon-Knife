@@ -18,19 +18,6 @@
 ### About 
 <i>
 <br />
-  
-> Hello! I'm Tauan Gabriel, a passionate software developer with over a decade of experience in the technology field. At 27 years old, I've delved deep into the world of programming, becoming a versatile professional with extensive experience in a variety of technologies and platforms.
-  
-> My professional journey spans a wide spectrum of challenging projects, from web applications to mobile solutions, working with technologies like Node.js, React, Angular, React Native, Nest.js, Next.js, TypeORM, and more. My expertise includes relational databases such as PostgreSQL and MySQL, as well as query languages like SQL.
-  
-> Over the years, I've had the privilege of contributing to large-scale projects, from information management systems with huge volumes of data to platforms for issuing fiscal documents. My main focus is always on delivering robust and efficient solutions, ensuring customer satisfaction and technical excellence.
-  
-> In addition to my technical proficiency, I'm an agile collaborator committed to teamwork. My experience in agile development, combined with dozens of certifications and courses in the field of technology, has empowered me to lead and integrate high-performance teams, ensuring timely and high-quality deliveries.
-  
-> I'm constantly seeking new challenges and opportunities to expand my knowledge and skills. If you're looking for a passionate, dedicated, and experienced professional to drive your technology projects forward, I'm here to help. Let's build something amazing together!
-<br />
-<br />
-</i>
 
 ###  Sobre
 <i>
