@@ -23,7 +23,7 @@
 <i>
 <br />
 
-> Olá! Eu sou Tauan Gabriel, um apaixonado analista de dados com mais de 5 anos de experiência no campo da tecnologia. Com meus 25 anos de idade, mergulhei fundo no mundo dos dados, tornando-me um profissional versátil e experiente em uma variedade de tecnologias e plataformas.
+> Olá! Eu sou Sávio Sousa, um apaixonado analista de dados com mais de 5 anos de experiência no campo da tecnologia. Com meus 25 anos de idade, mergulhei fundo no mundo dos dados, tornando-me um profissional versátil e experiente em uma variedade de tecnologias e plataformas.
   
 > Minha jornada profissional abrange um vasto espectro de projetos desafiadores, desde automação de rotinas basicas a complexas, trabalhando com tecnologias como: SQL, C#, Bath, Python e muito mais. Meu domínio inclui bancos de dados relacionais como PostgreSQL e MySQL, bem como linguagens de consulta como SQL.
   
